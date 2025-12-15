@@ -6,6 +6,7 @@ def main():
     # run_save_table_to_csv()
     # run_print_tournament_table()
     # run_print_player_table()
+    pass
 
 if __name__ == "__main__":
     main()
