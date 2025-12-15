@@ -1,0 +1,12 @@
+def main():
+    # run_tournament_import()
+    # run_create_per_player_table()
+    # run_calculate_expected_score()
+    # run_calculate_performance_rating()
+    # run_save_table_to_csv()
+    # run_print_tournament_table()
+    # run_print_player_table()
+    pass
+
+if __name__ == "__main__":
+    main()
