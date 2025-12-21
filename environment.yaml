@@ -9,3 +9,5 @@ dependencies:
 - pymdown-extensions=10.17.2
 - python=3.14.0
 - numpy=2.3.5
+- pandas=2.3.3
+- re = 2.2.1
