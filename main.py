@@ -1,5 +1,9 @@
+import tournament_import
+
 def main():
-    # run_tournament_import()
+    # 1 run_tournament_import()
+
+    tournament_import.main("C:\\Users\\emili\\OneDrive\\Documents\\Administrative\\Privat\\Performance_rating\\andorra2025.pgn")
     # run_create_per_player_table()
     # run_calculate_expected_score()
     # run_calculate_performance_rating()
