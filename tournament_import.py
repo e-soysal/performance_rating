@@ -18,7 +18,7 @@ def parse_pgn(pgn_text: str) -> dict:
     # Extract [Key "Value"] lines
     header_pattern = re.compile(r'\[(\w+)\s+"([^"]*)"\]')
     for key, value in header_pattern.findall(pgn_text):
-        game_data[key] = value
+        game_data[key] = value.strip().strip('"')
 
     # Extract moves (everything after the headers)
     moves_start = pgn_text.strip().split("\n\n", 1)
@@ -43,7 +43,6 @@ def parse_pgn_file(filename: str) -> pd.DataFrame:
     df = pd.DataFrame(games)
     
     df_small = df[["Event", "Date", "White","Round", "Black", "Result", "WhiteElo", "BlackElo"]]
-
     return df_small
 
 def games_to_player_rows(df: pd.DataFrame) -> pd.DataFrame:
