@@ -42,7 +42,11 @@ def parse_pgn_file(filename: str) -> pd.DataFrame:
 
     df = pd.DataFrame(games)
     
-    df_small = df[["Event", "Date", "White","Round", "Black", "Result", "WhiteElo", "BlackElo"]]
+    # If GameId exists, set as index
+    #if "Round" in df.columns:
+    #    df.set_index("Round", inplace=True)
+    
+    df_small = df[["Event", "Date", "Round", "White", "Black", "Result", "WhiteElo", "BlackElo"]]
 
     return df_small
 
