@@ -16,12 +16,8 @@ if uploaded_file is not None:
     
     df2 = functions.games_to_player_rows(df1)
     
-    st.write("PGN file parsed and CSVs saved.")
+    st.write("PGN file parsed successfully.")
     
-    df3 = functions.build_player_opponent_elo_table("output2.csv")
-    
-    st.write("Player opponent ELO table created.")
-
     # Test player detail function
     players = df2["Player"].unique()
 
@@ -32,18 +28,18 @@ if uploaded_file is not None:
     )
 
     # 4️⃣ Display something related to the player
-    st.subheader(f"Information for {selected_player}")
-    
     df4 = df2.copy() #Get a list of all the games
     df4 = df4[df4["Player"] == selected_player] #Filter for the test player
     test_player = functions.player_detail(name = selected_player, player_games = df4) #create player detail
     st.write("Player details retrieved for player:", test_player.player_name)
+    st.write("Elo rating:", test_player.player_rating, "Score:", test_player.score, "Rounds played:", test_player.player_rounds)
+    
     st.write(test_player.player_games)
 
     #Calculate the performance rating for the test player
     test_player.calculate_performance_rating(boundary_value= 0.01)
-    st.write("Calculated performance rating based on average method:", test_player.performance_average)
-    st.write("Calculated performance rating based on minimisation method:", test_player.performance)
+    st.write("Calculated performance - average method:", test_player.performance_average)
+    st.write("Calculated performance - minimisation method:", test_player.performance)
 
 else:
     st.warning("Please upload a PGN file to proceed.")
