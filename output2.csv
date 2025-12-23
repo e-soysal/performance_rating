@@ -1,0 +1,469 @@
+Event,Date,Round,Player,Color,Points,PlayerElo,Opponent,OpponentElo
+41 Andorra Open,2025.07.19,1.1,"Tari, Aryan",White,1.0,2636,"Picart, Laurent",2018
+41 Andorra Open,2025.07.19,1.1,"Picart, Laurent",Black,0.0,2018,"Tari, Aryan",2636
+41 Andorra Open,2025.07.19,1.2,"Raggini, Lionel",White,0.0,2011,"Henriquez Villagra, Cristobal",2599
+41 Andorra Open,2025.07.19,1.2,"Henriquez Villagra, Cristobal",Black,1.0,2599,"Raggini, Lionel",2011
+41 Andorra Open,2025.07.19,1.3,"Shimanov, Aleksandr",White,1.0,2578,"Swayham, P Das",2003
+41 Andorra Open,2025.07.19,1.3,"Swayham, P Das",Black,0.0,2003,"Shimanov, Aleksandr",2578
+41 Andorra Open,2025.07.19,1.4,"Arya, G Mallar",White,0.0,2000,"Andersen, Mads",2562
+41 Andorra Open,2025.07.19,1.4,"Andersen, Mads",Black,1.0,2562,"Arya, G Mallar",2000
+41 Andorra Open,2025.07.19,1.5,"Garcia Paolicchi, Raul",White,0.0,1995,"Sumets, Andrey",2497
+41 Andorra Open,2025.07.19,1.5,"Sumets, Andrey",Black,1.0,2497,"Garcia Paolicchi, Raul",1995
+41 Andorra Open,2025.07.19,1.6,"Kogan, Arthur",White,1.0,2475,"Banos Rosique, Rafael",1988
+41 Andorra Open,2025.07.19,1.6,"Banos Rosique, Rafael",Black,0.0,1988,"Kogan, Arthur",2475
+41 Andorra Open,2025.07.19,1.7,"Jagreet, Misra",White,0.0,1988,"Dvirnyy, Danyyil",2473
+41 Andorra Open,2025.07.19,1.7,"Dvirnyy, Danyyil",Black,1.0,2473,"Jagreet, Misra",1988
+41 Andorra Open,2025.07.19,1.8,"Lopez Martinez, Josep Manuel",White,1.0,2462,"Caron, Damien",1979
+41 Andorra Open,2025.07.19,1.8,"Caron, Damien",Black,0.0,1979,"Lopez Martinez, Josep Manuel",2462
+41 Andorra Open,2025.07.19,1.9,"Cabarcos Baulina, Manuel",White,0.0,1978,"Ayats Llobera, Gerard",2447
+41 Andorra Open,2025.07.19,1.9,"Ayats Llobera, Gerard",Black,1.0,2447,"Cabarcos Baulina, Manuel",1978
+41 Andorra Open,2025.07.19,1.10,"Gkoumas, Georgios",White,1.0,2441,"Hafstad, Leif",1968
+41 Andorra Open,2025.07.19,1.10,"Hafstad, Leif",Black,0.0,1968,"Gkoumas, Georgios",2441
+41 Andorra Open,2025.07.19,1.11,"Ercoli, Andria",White,0.0,1966,"Garcia Ramos, Daniel",2438
+41 Andorra Open,2025.07.19,1.11,"Garcia Ramos, Daniel",Black,1.0,2438,"Ercoli, Andria",1966
+41 Andorra Open,2025.07.19,1.12,"Domingo Nunez, Ruben",White,1.0,2435,"Canonge, Lionel",1963
+41 Andorra Open,2025.07.19,1.12,"Canonge, Lionel",Black,0.0,1963,"Domingo Nunez, Ruben",2435
+41 Andorra Open,2025.07.19,1.13,"Klein, Gernot",White,0.0,1952,"Fiorito, Francisco",2433
+41 Andorra Open,2025.07.19,1.13,"Fiorito, Francisco",Black,1.0,2433,"Klein, Gernot",1952
+41 Andorra Open,2025.07.19,1.14,"Czopor, Maciej",White,1.0,2423,"Valle Luis, Liam",1948
+41 Andorra Open,2025.07.19,1.14,"Valle Luis, Liam",Black,0.0,1948,"Czopor, Maciej",2423
+41 Andorra Open,2025.07.19,1.15,"Zamora Beamud, Andres",White,0.0,1947,"Fiorito, Joaquin",2419
+41 Andorra Open,2025.07.19,1.15,"Fiorito, Joaquin",Black,1.0,2419,"Zamora Beamud, Andres",1947
+41 Andorra Open,2025.07.19,1.16,"Vestby-Ellingsen, Mads",White,1.0,2395,"Bonnet, Philippe",1932
+41 Andorra Open,2025.07.19,1.16,"Bonnet, Philippe",Black,0.0,1932,"Vestby-Ellingsen, Mads",2395
+41 Andorra Open,2025.07.19,1.17,"Brasoy, Aksel",White,0.0,1929,"Suarez Uriel, Adrian",2394
+41 Andorra Open,2025.07.19,1.17,"Suarez Uriel, Adrian",Black,1.0,2394,"Brasoy, Aksel",1929
+41 Andorra Open,2025.07.19,1.18,"Lohia, Sohum",White,1.0,2382,"Villa Izquierdo, Roberto",1929
+41 Andorra Open,2025.07.19,1.18,"Villa Izquierdo, Roberto",Black,0.0,1929,"Lohia, Sohum",2382
+41 Andorra Open,2025.07.19,1.19,"Cuartas, Jaime Alexander",White,1.0,2521,"De Lomas Busquets, Alba",1997
+41 Andorra Open,2025.07.19,1.19,"De Lomas Busquets, Alba",Black,0.0,1997,"Cuartas, Jaime Alexander",2521
+41 Andorra Open,2025.07.19,1.20,"Ribera Caro, Joan",White,0.0,1922,"Hernandez, Cristian Andres",2373
+41 Andorra Open,2025.07.19,1.20,"Hernandez, Cristian Andres",Black,1.0,2373,"Ribera Caro, Joan",1922
+41 Andorra Open,2025.07.19,1.21,"Karp, Ilya",White,1.0,2370,"Alcon Llosada, Alex",1916
+41 Andorra Open,2025.07.19,1.21,"Alcon Llosada, Alex",Black,0.0,1916,"Karp, Ilya",2370
+41 Andorra Open,2025.07.19,1.22,"Golub, Nikolina",White,0.0,1912,"Luque Saiz, Andres",2352
+41 Andorra Open,2025.07.19,1.22,"Luque Saiz, Andres",Black,1.0,2352,"Golub, Nikolina",1912
+41 Andorra Open,2025.07.19,1.23,"Smeets, Kobe",White,1.0,2341,"Millan Hernandez, Marc",1912
+41 Andorra Open,2025.07.19,1.23,"Millan Hernandez, Marc",Black,0.0,1912,"Smeets, Kobe",2341
+41 Andorra Open,2025.07.19,1.24,"Krithik, Muthukumar",White,0.5,1900,"Tryggestad, Andreas Garberg",2332
+41 Andorra Open,2025.07.19,1.24,"Tryggestad, Andreas Garberg",Black,0.5,2332,"Krithik, Muthukumar",1900
+41 Andorra Open,2025.07.19,1.25,"Garcia Martin, Marta",White,1.0,2329,"Paczka, Patryk",1898
+41 Andorra Open,2025.07.19,1.25,"Paczka, Patryk",Black,0.0,1898,"Garcia Martin, Marta",2329
+41 Andorra Open,2025.07.19,1.26,"Afsari, Aidin",White,0.0,1896,"Ostensen, Nicolai Maxime",2326
+41 Andorra Open,2025.07.19,1.26,"Ostensen, Nicolai Maxime",Black,1.0,2326,"Afsari, Aidin",1896
+41 Andorra Open,2025.07.20,2.1,"Bagwe, Gaurang",White,0.0,2249,"Tari, Aryan",2636
+41 Andorra Open,2025.07.20,2.1,"Tari, Aryan",Black,1.0,2636,"Bagwe, Gaurang",2249
+41 Andorra Open,2025.07.20,2.2,"Henriquez Villagra, Cristobal",White,1.0,2599,"Roca Planas, Edgar",2246
+41 Andorra Open,2025.07.20,2.2,"Roca Planas, Edgar",Black,0.0,2246,"Henriquez Villagra, Cristobal",2599
+41 Andorra Open,2025.07.20,2.3,"Grove, Peter",White,0.0,2217,"Shimanov, Aleksandr",2578
+41 Andorra Open,2025.07.20,2.3,"Shimanov, Aleksandr",Black,1.0,2578,"Grove, Peter",2217
+41 Andorra Open,2025.07.20,2.4,"Andersen, Mads",White,1.0,2562,"Volkov, Dmitriy",2211
+41 Andorra Open,2025.07.20,2.4,"Volkov, Dmitriy",Black,0.0,2211,"Andersen, Mads",2562
+41 Andorra Open,2025.07.20,2.5,"Suarez, Sebastian",White,0.5,2201,"Cuartas, Jaime Alexander",2521
+41 Andorra Open,2025.07.20,2.5,"Cuartas, Jaime Alexander",Black,0.5,2521,"Suarez, Sebastian",2201
+41 Andorra Open,2025.07.20,2.6,"Sumets, Andrey",White,1.0,2497,"Sason, Noam",2189
+41 Andorra Open,2025.07.20,2.6,"Sason, Noam",Black,0.0,2189,"Sumets, Andrey",2497
+41 Andorra Open,2025.07.20,2.7,"Midoux, Sebastien",White,0.5,2190,"Kogan, Arthur",2475
+41 Andorra Open,2025.07.20,2.7,"Kogan, Arthur",Black,0.5,2475,"Midoux, Sebastien",2190
+41 Andorra Open,2025.07.20,2.8,"Dvirnyy, Danyyil",White,1.0,2473,"Serra Pages, Jordi",2177
+41 Andorra Open,2025.07.20,2.8,"Serra Pages, Jordi",Black,0.0,2177,"Dvirnyy, Danyyil",2473
+41 Andorra Open,2025.07.20,2.9,"Rodriguez Redondo, Adhara",White,0.0,2183,"Lopez Martinez, Josep Manuel",2462
+41 Andorra Open,2025.07.20,2.9,"Lopez Martinez, Josep Manuel",Black,1.0,2462,"Rodriguez Redondo, Adhara",2183
+41 Andorra Open,2025.07.20,2.10,"Ayats Llobera, Gerard",White,0.5,2447,"Alvarez Albiol, Victor",2171
+41 Andorra Open,2025.07.20,2.10,"Alvarez Albiol, Victor",Black,0.5,2171,"Ayats Llobera, Gerard",2447
+41 Andorra Open,2025.07.20,2.11,"Skaar, Ben Samuel Groth",White,0.5,2174,"Gkoumas, Georgios",2441
+41 Andorra Open,2025.07.20,2.11,"Gkoumas, Georgios",Black,0.5,2441,"Skaar, Ben Samuel Groth",2174
+41 Andorra Open,2025.07.20,2.12,"Garcia Ramos, Daniel",White,1.0,2438,"Palomo Teruel, Xavier",2162
+41 Andorra Open,2025.07.20,2.12,"Palomo Teruel, Xavier",Black,0.0,2162,"Garcia Ramos, Daniel",2438
+41 Andorra Open,2025.07.20,2.13,"Gomez Anadon, Daniel",White,0.0,2171,"Domingo Nunez, Ruben",2435
+41 Andorra Open,2025.07.20,2.13,"Domingo Nunez, Ruben",Black,1.0,2435,"Gomez Anadon, Daniel",2171
+41 Andorra Open,2025.07.20,2.14,"Fiorito, Francisco",White,1.0,2433,"Ruperez, Miguel",2149
+41 Andorra Open,2025.07.20,2.14,"Ruperez, Miguel",Black,0.0,2149,"Fiorito, Francisco",2433
+41 Andorra Open,2025.07.20,2.15,"Jimenez Fernandez, Rebeca",White,0.5,2154,"Czopor, Maciej",2423
+41 Andorra Open,2025.07.20,2.15,"Czopor, Maciej",Black,0.5,2423,"Jimenez Fernandez, Rebeca",2154
+41 Andorra Open,2025.07.20,2.16,"Fiorito, Joaquin",White,1.0,2419,"Aleksanyan Israelyan, Nicolas",2140
+41 Andorra Open,2025.07.20,2.16,"Aleksanyan Israelyan, Nicolas",Black,0.0,2140,"Fiorito, Joaquin",2419
+41 Andorra Open,2025.07.20,2.17,"Ribera Veganzones, Josep Maria",White,0.0,2141,"Vestby-Ellingsen, Mads",2395
+41 Andorra Open,2025.07.20,2.17,"Vestby-Ellingsen, Mads",Black,1.0,2395,"Ribera Veganzones, Josep Maria",2141
+41 Andorra Open,2025.07.20,2.18,"Suarez Uriel, Adrian",White,1.0,2394,"Serrahima Susany, Ramon",2114
+41 Andorra Open,2025.07.20,2.18,"Serrahima Susany, Ramon",Black,0.0,2114,"Suarez Uriel, Adrian",2394
+41 Andorra Open,2025.07.20,2.19,"De Lomas Busquets, Alba",White,0.5,1997,"Cots Valls, Jordi",1723
+41 Andorra Open,2025.07.20,2.19,"Cots Valls, Jordi",Black,0.5,1723,"De Lomas Busquets, Alba",1997
+41 Andorra Open,2025.07.20,2.20,"Hristodorescu, Daniel",White,0.0,2121,"Lohia, Sohum",2382
+41 Andorra Open,2025.07.20,2.20,"Lohia, Sohum",Black,1.0,2382,"Hristodorescu, Daniel",2121
+41 Andorra Open,2025.07.20,2.21,"Hernandez, Cristian Andres",White,0.5,2373,"Toulzac, Pierre-Yves",2102
+41 Andorra Open,2025.07.20,2.21,"Toulzac, Pierre-Yves",Black,0.5,2102,"Hernandez, Cristian Andres",2373
+41 Andorra Open,2025.07.20,2.22,"Christodoulaki, Antonia",White,0.0,2111,"Karp, Ilya",2370
+41 Andorra Open,2025.07.20,2.22,"Karp, Ilya",Black,1.0,2370,"Christodoulaki, Antonia",2111
+41 Andorra Open,2025.07.20,2.23,"Rempe, Jonas",White,0.0,2095,"Smeets, Kobe",2341
+41 Andorra Open,2025.07.20,2.23,"Smeets, Kobe",Black,1.0,2341,"Rempe, Jonas",2095
+41 Andorra Open,2025.07.20,2.24,"Luke Brezmes, Cristofer",White,0.0,2093,"Garcia Martin, Marta",2329
+41 Andorra Open,2025.07.20,2.24,"Garcia Martin, Marta",Black,1.0,2329,"Luke Brezmes, Cristofer",2093
+41 Andorra Open,2025.07.20,2.25,"Ostensen, Nicolai Maxime",White,0.5,2326,"Gowrishankar, Jayaraj",2092
+41 Andorra Open,2025.07.20,2.25,"Gowrishankar, Jayaraj",Black,0.5,2092,"Ostensen, Nicolai Maxime",2326
+41 Andorra Open,2025.07.20,2.26,"Hammari, Vinjar",White,0.5,2088,"Fiedorek, Michal",2322
+41 Andorra Open,2025.07.20,2.26,"Fiedorek, Michal",Black,0.5,2322,"Hammari, Vinjar",2088
+41 Andorra Open,2025.07.21,3.1,"Tari, Aryan",White,0.5,2636,"Karp, Ilya",2370
+41 Andorra Open,2025.07.21,3.1,"Karp, Ilya",Black,0.5,2370,"Tari, Aryan",2636
+41 Andorra Open,2025.07.21,3.2,"Smeets, Kobe",White,0.5,2341,"Henriquez Villagra, Cristobal",2599
+41 Andorra Open,2025.07.21,3.2,"Henriquez Villagra, Cristobal",Black,0.5,2599,"Smeets, Kobe",2341
+41 Andorra Open,2025.07.21,3.3,"Shimanov, Aleksandr",White,1.0,2578,"Luque Saiz, Andres",2352
+41 Andorra Open,2025.07.21,3.3,"Luque Saiz, Andres",Black,0.0,2352,"Shimanov, Aleksandr",2578
+41 Andorra Open,2025.07.21,3.4,"Garcia Martin, Marta",White,0.0,2329,"Andersen, Mads",2562
+41 Andorra Open,2025.07.21,3.4,"Andersen, Mads",Black,1.0,2562,"Garcia Martin, Marta",2329
+41 Andorra Open,2025.07.21,3.5,"Fava, Lorenzo",White,0.0,2316,"Sumets, Andrey",2497
+41 Andorra Open,2025.07.21,3.5,"Sumets, Andrey",Black,1.0,2497,"Fava, Lorenzo",2316
+41 Andorra Open,2025.07.21,3.6,"Valle Luis, Leo",White,0.0,2301,"Dvirnyy, Danyyil",2473
+41 Andorra Open,2025.07.21,3.6,"Dvirnyy, Danyyil",Black,1.0,2473,"Valle Luis, Leo",2301
+41 Andorra Open,2025.07.21,3.7,"Lopez Martinez, Josep Manuel",White,1.0,2462,"Lund, Gunnar",2322
+41 Andorra Open,2025.07.21,3.7,"Lund, Gunnar",Black,0.0,2322,"Lopez Martinez, Josep Manuel",2462
+41 Andorra Open,2025.07.21,3.8,"Oudeh Mishmesh, Omar",White,0.0,2290,"Garcia Ramos, Daniel",2438
+41 Andorra Open,2025.07.21,3.8,"Garcia Ramos, Daniel",Black,1.0,2438,"Oudeh Mishmesh, Omar",2290
+41 Andorra Open,2025.07.21,3.9,"Domingo Nunez, Ruben",White,1.0,2435,"Cappelletto, Joshuaede",2312
+41 Andorra Open,2025.07.21,3.9,"Cappelletto, Joshuaede",Black,0.0,2312,"Domingo Nunez, Ruben",2435
+41 Andorra Open,2025.07.21,3.10,"Nielsen, Andre",White,0.0,2287,"Fiorito, Francisco",2433
+41 Andorra Open,2025.07.21,3.10,"Fiorito, Francisco",Black,1.0,2433,"Nielsen, Andre",2287
+41 Andorra Open,2025.07.21,3.11,"Yao, Lan",White,0.5,2261,"Fiorito, Joaquin",2419
+41 Andorra Open,2025.07.21,3.11,"Fiorito, Joaquin",Black,0.5,2419,"Yao, Lan",2261
+41 Andorra Open,2025.07.21,3.12,"Vestby-Ellingsen, Mads",White,0.5,2395,"Fiorito, Fabian",2274
+41 Andorra Open,2025.07.21,3.12,"Fiorito, Fabian",Black,0.5,2274,"Vestby-Ellingsen, Mads",2395
+41 Andorra Open,2025.07.21,3.13,"Moral Garcia, Serafin",White,1.0,2258,"Suarez Uriel, Adrian",2394
+41 Andorra Open,2025.07.21,3.13,"Suarez Uriel, Adrian",Black,0.0,2394,"Moral Garcia, Serafin",2258
+41 Andorra Open,2025.07.21,3.14,"Lohia, Sohum",White,1.0,2382,"Marrero Rodriguez, Jorge",2259
+41 Andorra Open,2025.07.21,3.14,"Marrero Rodriguez, Jorge",Black,0.0,2259,"Lohia, Sohum",2382
+41 Andorra Open,2025.07.21,3.15,"Cuartas, Jaime Alexander",White,1.0,2521,"Wu, Derek",2232
+41 Andorra Open,2025.07.21,3.15,"Wu, Derek",Black,0.0,2232,"Cuartas, Jaime Alexander",2521
+41 Andorra Open,2025.07.21,3.16,"Kogan, Arthur",White,0.5,2475,"Meessen, Rudolf",2206
+41 Andorra Open,2025.07.21,3.16,"Meessen, Rudolf",Black,0.5,2206,"Kogan, Arthur",2475
+41 Andorra Open,2025.07.21,3.17,"Ayats Llobera, Gerard",White,0.0,2447,"Suarez, Sebastian",2201
+41 Andorra Open,2025.07.21,3.17,"Suarez, Sebastian",Black,1.0,2201,"Ayats Llobera, Gerard",2447
+41 Andorra Open,2025.07.21,3.18,"Gkoumas, Georgios",White,1.0,2441,"Midoux, Sebastien",2190
+41 Andorra Open,2025.07.21,3.18,"Midoux, Sebastien",Black,0.0,2190,"Gkoumas, Georgios",2441
+41 Andorra Open,2025.07.21,3.19,"Pujol Zoilo, Eudald",White,1.0,1733,"De Lomas Busquets, Alba",1997
+41 Andorra Open,2025.07.21,3.19,"De Lomas Busquets, Alba",Black,0.0,1997,"Pujol Zoilo, Eudald",1733
+41 Andorra Open,2025.07.21,3.20,"Czopor, Maciej",White,1.0,2423,"Skaar, Ben Samuel Groth",2174
+41 Andorra Open,2025.07.21,3.20,"Skaar, Ben Samuel Groth",Black,0.0,2174,"Czopor, Maciej",2423
+41 Andorra Open,2025.07.21,3.21,"Alvarez Albiol, Victor",White,0.5,2171,"Hernandez, Cristian Andres",2373
+41 Andorra Open,2025.07.21,3.21,"Hernandez, Cristian Andres",Black,0.5,2373,"Alvarez Albiol, Victor",2171
+41 Andorra Open,2025.07.21,3.22,"Toulzac, Pierre-Yves",White,0.0,2102,"Tryggestad, Andreas Garberg",2332
+41 Andorra Open,2025.07.21,3.22,"Tryggestad, Andreas Garberg",Black,1.0,2332,"Toulzac, Pierre-Yves",2102
+41 Andorra Open,2025.07.21,3.23,"Le Montagner, Yoann",White,0.0,2030,"Ostensen, Nicolai Maxime",2326
+41 Andorra Open,2025.07.21,3.23,"Ostensen, Nicolai Maxime",Black,1.0,2326,"Le Montagner, Yoann",2030
+41 Andorra Open,2025.07.21,3.24,"Fiedorek, Michal",White,1.0,2322,"Jimenez Fernandez, Rebeca",2154
+41 Andorra Open,2025.07.21,3.24,"Jimenez Fernandez, Rebeca",Black,0.0,2154,"Fiedorek, Michal",2322
+41 Andorra Open,2025.07.21,3.25,"Gowrishankar, Jayaraj",White,0.0,2092,"Schoorl, Rob",2300
+41 Andorra Open,2025.07.21,3.25,"Schoorl, Rob",Black,1.0,2300,"Gowrishankar, Jayaraj",2092
+41 Andorra Open,2025.07.21,3.26,"Villa Tornero, Alex",White,1.0,2282,"Hammari, Vinjar",2088
+41 Andorra Open,2025.07.21,3.26,"Hammari, Vinjar",Black,0.0,2088,"Villa Tornero, Alex",2282
+41 Andorra Open,2025.07.22,4.1,"Garcia Ramos, Daniel",White,0.5,2438,"Shimanov, Aleksandr",2578
+41 Andorra Open,2025.07.22,4.1,"Shimanov, Aleksandr",Black,0.5,2578,"Garcia Ramos, Daniel",2438
+41 Andorra Open,2025.07.22,4.2,"Andersen, Mads",White,0.5,2562,"Domingo Nunez, Ruben",2435
+41 Andorra Open,2025.07.22,4.2,"Domingo Nunez, Ruben",Black,0.5,2435,"Andersen, Mads",2562
+41 Andorra Open,2025.07.22,4.3,"Sumets, Andrey",White,0.5,2497,"Lohia, Sohum",2382
+41 Andorra Open,2025.07.22,4.3,"Lohia, Sohum",Black,0.5,2382,"Sumets, Andrey",2497
+41 Andorra Open,2025.07.22,4.4,"Dvirnyy, Danyyil",White,0.5,2473,"Moral Garcia, Serafin",2258
+41 Andorra Open,2025.07.22,4.4,"Moral Garcia, Serafin",Black,0.5,2258,"Dvirnyy, Danyyil",2473
+41 Andorra Open,2025.07.22,4.5,"Fiorito, Francisco",White,0.5,2433,"Lopez Martinez, Josep Manuel",2462
+41 Andorra Open,2025.07.22,4.5,"Lopez Martinez, Josep Manuel",Black,0.5,2462,"Fiorito, Francisco",2433
+41 Andorra Open,2025.07.22,4.6,"Smeets, Kobe",White,0.0,2341,"Tari, Aryan",2636
+41 Andorra Open,2025.07.22,4.6,"Tari, Aryan",Black,1.0,2636,"Smeets, Kobe",2341
+41 Andorra Open,2025.07.22,4.7,"Henriquez Villagra, Cristobal",White,1.0,2599,"Fiedorek, Michal",2322
+41 Andorra Open,2025.07.22,4.7,"Fiedorek, Michal",Black,0.0,2322,"Henriquez Villagra, Cristobal",2599
+41 Andorra Open,2025.07.22,4.8,"Tryggestad, Andreas Garberg",White,0.5,2332,"Cuartas, Jaime Alexander",2521
+41 Andorra Open,2025.07.22,4.8,"Cuartas, Jaime Alexander",Black,0.5,2521,"Tryggestad, Andreas Garberg",2332
+41 Andorra Open,2025.07.22,4.9,"Ostensen, Nicolai Maxime",White,0.5,2326,"Gkoumas, Georgios",2441
+41 Andorra Open,2025.07.22,4.9,"Gkoumas, Georgios",Black,0.5,2441,"Ostensen, Nicolai Maxime",2326
+41 Andorra Open,2025.07.22,4.10,"Fiorito, Fabian",White,0.0,2274,"Czopor, Maciej",2423
+41 Andorra Open,2025.07.22,4.10,"Czopor, Maciej",Black,1.0,2423,"Fiorito, Fabian",2274
+41 Andorra Open,2025.07.22,4.11,"Fiorito, Joaquin",White,0.5,2419,"Villa Tornero, Alex",2282
+41 Andorra Open,2025.07.22,4.11,"Villa Tornero, Alex",Black,0.5,2282,"Fiorito, Joaquin",2419
+41 Andorra Open,2025.07.22,4.12,"Schoorl, Rob",White,0.0,2300,"Vestby-Ellingsen, Mads",2395
+41 Andorra Open,2025.07.22,4.12,"Vestby-Ellingsen, Mads",Black,1.0,2395,"Schoorl, Rob",2300
+41 Andorra Open,2025.07.22,4.13,"Karp, Ilya",White,0.0,2370,"Yao, Lan",2261
+41 Andorra Open,2025.07.22,4.13,"Yao, Lan",Black,1.0,2261,"Karp, Ilya",2370
+41 Andorra Open,2025.07.22,4.14,"Suarez, Sebastian",White,0.0,2201,"Kogan, Arthur",2475
+41 Andorra Open,2025.07.22,4.14,"Kogan, Arthur",Black,1.0,2475,"Suarez, Sebastian",2201
+41 Andorra Open,2025.07.22,4.15,"Suarez Uriel, Adrian",White,1.0,2394,"Alvarez Albiol, Victor",2171
+41 Andorra Open,2025.07.22,4.15,"Alvarez Albiol, Victor",Black,0.0,2171,"Suarez Uriel, Adrian",2394
+41 Andorra Open,2025.07.22,4.16,"Hernandez, Cristian Andres",White,1.0,2373,"Palomo Teruel, Xavier",2162
+41 Andorra Open,2025.07.22,4.16,"Palomo Teruel, Xavier",Black,0.0,2162,"Hernandez, Cristian Andres",2373
+41 Andorra Open,2025.07.22,4.17,"Luque Saiz, Andres",White,0.5,2352,"Ruperez, Miguel",2149
+41 Andorra Open,2025.07.22,4.17,"Ruperez, Miguel",Black,0.5,2149,"Luque Saiz, Andres",2352
+41 Andorra Open,2025.07.22,4.18,"Gomez Anadon, Daniel",White,0.5,2171,"Garcia Martin, Marta",2329
+41 Andorra Open,2025.07.22,4.18,"Garcia Martin, Marta",Black,0.5,2329,"Gomez Anadon, Daniel",2171
+41 Andorra Open,2025.07.22,4.19,"Montoliu Montes, Joaquim",White,0.0,1588,"De Lomas Busquets, Alba",1997
+41 Andorra Open,2025.07.22,4.19,"De Lomas Busquets, Alba",Black,1.0,1997,"Montoliu Montes, Joaquim",1588
+41 Andorra Open,2025.07.22,4.20,"Lund, Gunnar",White,1.0,2322,"Aleksanyan Israilyan, Nicolas",2140
+41 Andorra Open,2025.07.22,4.20,"Aleksanyan Israilyan, Nicolas",Black,0.0,2140,"Lund, Gunnar",2322
+41 Andorra Open,2025.07.22,4.21,"Serrahima Susany, Ramon",White,0.5,2114,"Fava, Lorenzo",2316
+41 Andorra Open,2025.07.22,4.21,"Fava, Lorenzo",Black,0.5,2316,"Serrahima Susany, Ramon",2114
+41 Andorra Open,2025.07.22,4.22,"Christodoulaki, Antonia",White,1.0,2111,"Valle Luis, Leo",2301
+41 Andorra Open,2025.07.22,4.22,"Valle Luis, Leo",Black,0.0,2301,"Christodoulaki, Antonia",2111
+41 Andorra Open,2025.07.22,4.23,"Rempe, Jonas",White,0.5,2095,"Oudeh Mishmesh, Omar",2290
+41 Andorra Open,2025.07.22,4.23,"Oudeh Mishmesh, Omar",Black,0.5,2290,"Rempe, Jonas",2095
+41 Andorra Open,2025.07.22,4.24,"Diaz Reyes, Kyllian",White,0.0,2068,"Nielsen, Andre",2287
+41 Andorra Open,2025.07.22,4.24,"Nielsen, Andre",Black,1.0,2287,"Diaz Reyes, Kyllian",2068
+41 Andorra Open,2025.07.22,4.25,"Bagwe, Gaurang",White,1.0,2249,"Guix Torres, David",2038
+41 Andorra Open,2025.07.22,4.25,"Guix Torres, David",Black,0.0,2038,"Bagwe, Gaurang",2249
+41 Andorra Open,2025.07.22,4.26,"Ballo Serrano, Jan",White,1.0,2027,"Roca Planas, Edgar",2246
+41 Andorra Open,2025.07.22,4.26,"Roca Planas, Edgar",Black,0.0,2246,"Ballo Serrano, Jan",2027
+41 Andorra Open,2025.07.23,5.1,"Tari, Aryan",White,0.5,2636,"Garcia Ramos, Daniel",2438
+41 Andorra Open,2025.07.23,5.1,"Garcia Ramos, Daniel",Black,0.5,2438,"Tari, Aryan",2636
+41 Andorra Open,2025.07.23,5.2,"Domingo Nunez, Ruben",White,0.5,2435,"Henriquez Villagra, Cristobal",2599
+41 Andorra Open,2025.07.23,5.2,"Henriquez Villagra, Cristobal",Black,0.5,2599,"Domingo Nunez, Ruben",2435
+41 Andorra Open,2025.07.23,5.3,"Shimanov, Aleksandr",White,1.0,2578,"Fiorito, Francisco",2433
+41 Andorra Open,2025.07.23,5.3,"Fiorito, Francisco",Black,0.0,2433,"Shimanov, Aleksandr",2578
+41 Andorra Open,2025.07.23,5.4,"Czopor, Maciej",White,0.5,2423,"Andersen, Mads",2562
+41 Andorra Open,2025.07.23,5.4,"Andersen, Mads",Black,0.5,2562,"Czopor, Maciej",2423
+41 Andorra Open,2025.07.23,5.5,"Vestby-Ellingsen, Mads",White,0.0,2395,"Sumets, Andrey",2497
+41 Andorra Open,2025.07.23,5.5,"Sumets, Andrey",Black,1.0,2497,"Vestby-Ellingsen, Mads",2395
+41 Andorra Open,2025.07.23,5.6,"Lohia, Sohum",White,0.5,2382,"Dvirnyy, Danyyil",2473
+41 Andorra Open,2025.07.23,5.6,"Dvirnyy, Danyyil",Black,0.5,2473,"Lohia, Sohum",2382
+41 Andorra Open,2025.07.23,5.7,"Lopez Martinez, Josep Manuel",White,0.5,2462,"Yao, Lan",2261
+41 Andorra Open,2025.07.23,5.7,"Yao, Lan",Black,0.5,2261,"Lopez Martinez, Josep Manuel",2462
+41 Andorra Open,2025.07.23,5.8,"Moral Garcia, Serafin",White,0.5,2258,"Fiorito, Joaquin",2419
+41 Andorra Open,2025.07.23,5.8,"Fiorito, Joaquin",Black,0.5,2419,"Moral Garcia, Serafin",2258
+41 Andorra Open,2025.07.23,5.9,"Cuartas, Jaime Alexander",White,0.5,2521,"Bagwe, Gaurang",2249
+41 Andorra Open,2025.07.23,5.9,"Bagwe, Gaurang",Black,0.5,2249,"Cuartas, Jaime Alexander",2521
+41 Andorra Open,2025.07.23,5.10,"Kogan, Arthur",White,1.0,2475,"Grove, Peter",2217
+41 Andorra Open,2025.07.23,5.10,"Grove, Peter",Black,0.0,2217,"Kogan, Arthur",2475
+41 Andorra Open,2025.07.23,5.11,"Gkoumas, Georgios",White,0.5,2441,"Meessen, Rudolf",2206
+41 Andorra Open,2025.07.23,5.11,"Meessen, Rudolf",Black,0.5,2206,"Gkoumas, Georgios",2441
+41 Andorra Open,2025.07.23,5.12,"Villa Tornero, Alex",White,1.0,2282,"Suarez Uriel, Adrian",2394
+41 Andorra Open,2025.07.23,5.12,"Suarez Uriel, Adrian",Black,0.0,2394,"Villa Tornero, Alex",2282
+41 Andorra Open,2025.07.23,5.13,"Bruaset, Eivind",White,0.5,2223,"Hernandez, Cristian Andres",2373
+41 Andorra Open,2025.07.23,5.13,"Hernandez, Cristian Andres",Black,0.5,2373,"Bruaset, Eivind",2223
+41 Andorra Open,2025.07.23,5.14,"Sason, Noam",White,1.0,2189,"Tryggestad, Andreas Garberg",2332
+41 Andorra Open,2025.07.23,5.14,"Tryggestad, Andreas Garberg",Black,0.0,2332,"Sason, Noam",2189
+41 Andorra Open,2025.07.23,5.15,"Christodoulaki, Antonia",White,0.5,2111,"Ostensen, Nicolai Maxime",2326
+41 Andorra Open,2025.07.23,5.15,"Ostensen, Nicolai Maxime",Black,0.5,2326,"Christodoulaki, Antonia",2111
+41 Andorra Open,2025.07.23,5.16,"Ruiz Bolanos, Eithan",White,0.5,1862,"Cappelletto, Joshuaede",2312
+41 Andorra Open,2025.07.23,5.16,"Cappelletto, Joshuaede",Black,0.5,2312,"Ruiz Bolanos, Eithan",1862
+41 Andorra Open,2025.07.23,5.17,"Nielsen, Andre",White,1.0,2287,"Ballo Serrano, Jan",2027
+41 Andorra Open,2025.07.23,5.17,"Ballo Serrano, Jan",Black,0.0,2027,"Nielsen, Andre",2287
+41 Andorra Open,2025.07.23,5.18,"Ayats Llobera, Gerard",White,1.0,2447,"Midoux, Sebastien",2190
+41 Andorra Open,2025.07.23,5.18,"Midoux, Sebastien",Black,0.0,2190,"Ayats Llobera, Gerard",2447
+41 Andorra Open,2025.07.23,5.19,"De Lomas Busquets, Alba",White,1.0,1997,"Aiglon, Nicolas",1844
+41 Andorra Open,2025.07.23,5.19,"Aiglon, Nicolas",Black,0.0,1844,"De Lomas Busquets, Alba",1997
+41 Andorra Open,2025.07.23,5.20,"Serra Pages, Jordi",White,0.0,2177,"Karp, Ilya",2370
+41 Andorra Open,2025.07.23,5.20,"Karp, Ilya",Black,1.0,2370,"Serra Pages, Jordi",2177
+41 Andorra Open,2025.07.23,5.21,"Skaar, Ben Samuel Groth",White,0.0,2174,"Luque Saiz, Andres",2352
+41 Andorra Open,2025.07.23,5.21,"Luque Saiz, Andres",Black,1.0,2352,"Skaar, Ben Samuel Groth",2174
+41 Andorra Open,2025.07.23,5.22,"Gomez Anadon, Daniel",White,0.0,2171,"Smeets, Kobe",2341
+41 Andorra Open,2025.07.23,5.22,"Smeets, Kobe",Black,1.0,2341,"Gomez Anadon, Daniel",2171
+41 Andorra Open,2025.07.23,5.23,"Garcia Martin, Marta",White,1.0,2329,"Jimenez Fernandez, Rebeca",2154
+41 Andorra Open,2025.07.23,5.23,"Jimenez Fernandez, Rebeca",Black,0.0,2154,"Garcia Martin, Marta",2329
+41 Andorra Open,2025.07.23,5.24,"Fiedorek, Michal",White,1.0,2322,"Ribera Veganzones, Josep Maria",2141
+41 Andorra Open,2025.07.23,5.24,"Ribera Veganzones, Josep Maria",Black,0.0,2141,"Fiedorek, Michal",2322
+41 Andorra Open,2025.07.23,5.25,"Fava, Lorenzo",White,0.5,2316,"Rempe, Jonas",2095
+41 Andorra Open,2025.07.23,5.25,"Rempe, Jonas",Black,0.5,2095,"Fava, Lorenzo",2316
+41 Andorra Open,2025.07.23,5.26,"Ruperez, Miguel",White,0.5,2149,"Schoorl, Rob",2300
+41 Andorra Open,2025.07.23,5.26,"Schoorl, Rob",Black,0.5,2300,"Ruperez, Miguel",2149
+41 Andorra Open,2025.07.24,6.1,"Sumets, Andrey",White,0.5,2497,"Shimanov, Aleksandr",2578
+41 Andorra Open,2025.07.24,6.1,"Shimanov, Aleksandr",Black,0.5,2578,"Sumets, Andrey",2497
+41 Andorra Open,2025.07.24,6.2,"Czopor, Maciej",White,0.5,2423,"Tari, Aryan",2636
+41 Andorra Open,2025.07.24,6.2,"Tari, Aryan",Black,0.5,2636,"Czopor, Maciej",2423
+41 Andorra Open,2025.07.24,6.3,"Henriquez Villagra, Cristobal",White,1.0,2599,"Lohia, Sohum",2382
+41 Andorra Open,2025.07.24,6.3,"Lohia, Sohum",Black,0.0,2382,"Henriquez Villagra, Cristobal",2599
+41 Andorra Open,2025.07.24,6.4,"Andersen, Mads",White,1.0,2562,"Nielsen, Andre",2287
+41 Andorra Open,2025.07.24,6.4,"Nielsen, Andre",Black,0.0,2287,"Andersen, Mads",2562
+41 Andorra Open,2025.07.24,6.5,"Lund, Gunnar",White,0.5,2322,"Kogan, Arthur",2475
+41 Andorra Open,2025.07.24,6.5,"Kogan, Arthur",Black,0.5,2475,"Lund, Gunnar",2322
+41 Andorra Open,2025.07.24,6.6,"Dvirnyy, Danyyil",White,0.5,2473,"Villa Tornero, Alex",2282
+41 Andorra Open,2025.07.24,6.6,"Villa Tornero, Alex",Black,0.5,2282,"Dvirnyy, Danyyil",2473
+41 Andorra Open,2025.07.24,6.7,"Moral Garcia, Serafin",White,0.0,2258,"Lopez Martinez, Josep Manuel",2462
+41 Andorra Open,2025.07.24,6.7,"Lopez Martinez, Josep Manuel",Black,1.0,2462,"Moral Garcia, Serafin",2258
+41 Andorra Open,2025.07.24,6.8,"Garcia Ramos, Daniel",White,1.0,2438,"Sason, Noam",2189
+41 Andorra Open,2025.07.24,6.8,"Sason, Noam",Black,0.0,2189,"Garcia Ramos, Daniel",2438
+41 Andorra Open,2025.07.24,6.9,"Yao, Lan",White,0.5,2261,"Domingo Nunez, Ruben",2435
+41 Andorra Open,2025.07.24,6.9,"Domingo Nunez, Ruben",Black,0.5,2435,"Yao, Lan",2261
+41 Andorra Open,2025.07.24,6.10,"Fiedorek, Michal",White,0.5,2322,"Cuartas, Jaime Alexander",2521
+41 Andorra Open,2025.07.24,6.10,"Cuartas, Jaime Alexander",Black,0.5,2521,"Fiedorek, Michal",2322
+41 Andorra Open,2025.07.24,6.11,"Cappelletto, Joshuaede",White,0.5,2312,"Ayats Llobera, Gerard",2447
+41 Andorra Open,2025.07.24,6.11,"Ayats Llobera, Gerard",Black,0.5,2447,"Cappelletto, Joshuaede",2312
+41 Andorra Open,2025.07.24,6.12,"Fiorito, Fabian",White,0.5,2274,"Gkoumas, Georgios",2441
+41 Andorra Open,2025.07.24,6.12,"Gkoumas, Georgios",Black,0.5,2441,"Fiorito, Fabian",2274
+41 Andorra Open,2025.07.24,6.13,"Fiorito, Francisco",White,1.0,2433,"Bruaset, Eivind",2223
+41 Andorra Open,2025.07.24,6.13,"Bruaset, Eivind",Black,0.0,2223,"Fiorito, Francisco",2433
+41 Andorra Open,2025.07.24,6.14,"Fiorito, Joaquin",White,1.0,2419,"Volkov, Dmitriy",2211
+41 Andorra Open,2025.07.24,6.14,"Volkov, Dmitriy",Black,0.0,2211,"Fiorito, Joaquin",2419
+41 Andorra Open,2025.07.24,6.15,"Bagwe, Gaurang",White,0.5,2249,"Vestby-Ellingsen, Mads",2395
+41 Andorra Open,2025.07.24,6.15,"Vestby-Ellingsen, Mads",Black,0.5,2395,"Bagwe, Gaurang",2249
+41 Andorra Open,2025.07.24,6.16,"Hernandez, Cristian Andres",White,1.0,2373,"Christodoulaki, Antonia",2111
+41 Andorra Open,2025.07.24,6.16,"Christodoulaki, Antonia",Black,0.0,2111,"Hernandez, Cristian Andres",2373
+41 Andorra Open,2025.07.24,6.17,"Karp, Ilya",White,1.0,2370,"Gowrishankar, Jayaraj",2092
+41 Andorra Open,2025.07.24,6.17,"Gowrishankar, Jayaraj",Black,0.0,2092,"Karp, Ilya",2370
+41 Andorra Open,2025.07.24,6.18,"Luque Saiz, Andres",White,1.0,2352,"Hammari, Vinjar",2088
+41 Andorra Open,2025.07.24,6.18,"Hammari, Vinjar",Black,0.0,2088,"Luque Saiz, Andres",2352
+41 Andorra Open,2025.07.24,6.19,"De Lomas Busquets, Alba",White,0.0,1997,"Serra Pages, Jordi",2177
+41 Andorra Open,2025.07.24,6.19,"Serra Pages, Jordi",Black,1.0,2177,"De Lomas Busquets, Alba",1997
+41 Andorra Open,2025.07.24,6.20,"Meessen, Rudolf",White,0.5,2206,"Smeets, Kobe",2341
+41 Andorra Open,2025.07.24,6.20,"Smeets, Kobe",Black,0.5,2341,"Meessen, Rudolf",2206
+41 Andorra Open,2025.07.24,6.21,"Jagreet, Misra",White,0.5,1988,"Garcia Martin, Marta",2329
+41 Andorra Open,2025.07.24,6.21,"Garcia Martin, Marta",Black,0.5,2329,"Jagreet, Misra",1988
+41 Andorra Open,2025.07.24,6.22,"Ostensen, Nicolai Maxime",White,1.0,2326,"Ruiz Bolanos, Eithan",1862
+41 Andorra Open,2025.07.24,6.22,"Ruiz Bolanos, Eithan",Black,0.0,1862,"Ostensen, Nicolai Maxime",2326
+41 Andorra Open,2025.07.24,6.23,"Suarez Uriel, Adrian",White,1.0,2394,"Aleksanyan Israelyan, Nicolas",2140
+41 Andorra Open,2025.07.24,6.23,"Aleksanyan Israelyan, Nicolas",Black,0.0,2140,"Suarez Uriel, Adrian",2394
+41 Andorra Open,2025.07.24,6.24,"Tryggestad, Andreas Garberg",White,1.0,2332,"Serrahima Susany, Ramon",2114
+41 Andorra Open,2025.07.24,6.24,"Serrahima Susany, Ramon",Black,0.0,2114,"Tryggestad, Andreas Garberg",2332
+41 Andorra Open,2025.07.24,6.25,"Rempe, Jonas",White,0.5,2095,"Valle Luis, Leo",2301
+41 Andorra Open,2025.07.24,6.25,"Valle Luis, Leo",Black,0.5,2301,"Rempe, Jonas",2095
+41 Andorra Open,2025.07.24,6.26,"Schoorl, Rob",White,1.0,2300,"Vinolas Anglada, Laura",2081
+41 Andorra Open,2025.07.24,6.26,"Vinolas Anglada, Laura",Black,0.0,2081,"Schoorl, Rob",2300
+41 Andorra Open,2025.07.25,7.1,"Lopez Martinez, Josep Manuel",White,1.0,2462,"Henriquez Villagra, Cristobal",2599
+41 Andorra Open,2025.07.25,7.1,"Henriquez Villagra, Cristobal",Black,0.0,2599,"Lopez Martinez, Josep Manuel",2462
+41 Andorra Open,2025.07.25,7.2,"Shimanov, Aleksandr",White,0.5,2578,"Andersen, Mads",2562
+41 Andorra Open,2025.07.25,7.2,"Andersen, Mads",Black,0.5,2562,"Shimanov, Aleksandr",2578
+41 Andorra Open,2025.07.25,7.3,"Garcia Ramos, Daniel",White,0.5,2438,"Sumets, Andrey",2497
+41 Andorra Open,2025.07.25,7.3,"Sumets, Andrey",Black,0.5,2497,"Garcia Ramos, Daniel",2438
+41 Andorra Open,2025.07.25,7.4,"Tari, Aryan",White,1.0,2636,"Hernandez, Cristian Andres",2373
+41 Andorra Open,2025.07.25,7.4,"Hernandez, Cristian Andres",Black,0.0,2373,"Tari, Aryan",2636
+41 Andorra Open,2025.07.25,7.5,"Kogan, Arthur",White,1.0,2475,"Karp, Ilya",2370
+41 Andorra Open,2025.07.25,7.5,"Karp, Ilya",Black,0.0,2370,"Kogan, Arthur",2475
+41 Andorra Open,2025.07.25,7.6,"Luque Saiz, Andres",White,0.0,2352,"Dvirnyy, Danyyil",2473
+41 Andorra Open,2025.07.25,7.6,"Dvirnyy, Danyyil",Black,1.0,2473,"Luque Saiz, Andres",2352
+41 Andorra Open,2025.07.25,7.7,"Domingo Nunez, Ruben",White,0.5,2435,"Ostensen, Nicolai Maxime",2326
+41 Andorra Open,2025.07.25,7.7,"Ostensen, Nicolai Maxime",Black,0.5,2326,"Domingo Nunez, Ruben",2435
+41 Andorra Open,2025.07.25,7.8,"Villa Tornero, Alex",White,0.5,2282,"Fiorito, Francisco",2433
+41 Andorra Open,2025.07.25,7.8,"Fiorito, Francisco",Black,0.5,2433,"Villa Tornero, Alex",2282
+41 Andorra Open,2025.07.25,7.9,"Yao, Lan",White,0.5,2261,"Czopor, Maciej",2423
+41 Andorra Open,2025.07.25,7.9,"Czopor, Maciej",Black,0.5,2423,"Yao, Lan",2261
+41 Andorra Open,2025.07.25,7.10,"Lund, Gunnar",White,0.0,2322,"Fiorito, Joaquin",2419
+41 Andorra Open,2025.07.25,7.10,"Fiorito, Joaquin",Black,1.0,2419,"Lund, Gunnar",2322
+41 Andorra Open,2025.07.25,7.11,"Cuartas, Jaime Alexander",White,0.5,2521,"Schoorl, Rob",2300
+41 Andorra Open,2025.07.25,7.11,"Schoorl, Rob",Black,0.5,2300,"Cuartas, Jaime Alexander",2521
+41 Andorra Open,2025.07.25,7.12,"Oudeh Mishmesh, Omar",White,0.5,2290,"Ayats Llobera, Gerard",2447
+41 Andorra Open,2025.07.25,7.12,"Ayats Llobera, Gerard",Black,0.5,2447,"Oudeh Mishmesh, Omar",2290
+41 Andorra Open,2025.07.25,7.13,"Gkoumas, Georgios",White,0.5,2441,"Nielsen, Andre",2287
+41 Andorra Open,2025.07.25,7.13,"Nielsen, Andre",Black,0.5,2287,"Gkoumas, Georgios",2441
+41 Andorra Open,2025.07.25,7.14,"Vestby-Ellingsen, Mads",White,0.5,2395,"Moral Garcia, Serafin",2258
+41 Andorra Open,2025.07.25,7.14,"Moral Garcia, Serafin",Black,0.5,2258,"Vestby-Ellingsen, Mads",2395
+41 Andorra Open,2025.07.25,7.15,"Roca Planas, Edgar",White,0.5,2246,"Suarez Uriel, Adrian",2394
+41 Andorra Open,2025.07.25,7.15,"Suarez Uriel, Adrian",Black,0.5,2394,"Roca Planas, Edgar",2246
+41 Andorra Open,2025.07.25,7.16,"Lohia, Sohum",White,0.5,2382,"Fiorito, Fabian",2274
+41 Andorra Open,2025.07.25,7.16,"Fiorito, Fabian",Black,0.5,2274,"Lohia, Sohum",2382
+41 Andorra Open,2025.07.25,7.17,"Smeets, Kobe",White,1.0,2341,"Bagwe, Gaurang",2249
+41 Andorra Open,2025.07.25,7.17,"Bagwe, Gaurang",Black,0.0,2249,"Smeets, Kobe",2341
+41 Andorra Open,2025.07.25,7.18,"Alvarez Albiol, Victor",White,0.5,2171,"Tryggestad, Andreas Garberg",2332
+41 Andorra Open,2025.07.25,7.18,"Tryggestad, Andreas Garberg",Black,0.5,2332,"Alvarez Albiol, Victor",2171
+41 Andorra Open,2025.07.25,7.19,"Hurtado Oldridge, Felipe",White,0.0,1891,"De Lomas Busquets, Alba",1997
+41 Andorra Open,2025.07.25,7.19,"De Lomas Busquets, Alba",Black,1.0,1997,"Hurtado Oldridge, Felipe",1891
+41 Andorra Open,2025.07.25,7.20,"Garcia Martin, Marta",White,1.0,2329,"Meessen, Rudolf",2206
+41 Andorra Open,2025.07.25,7.20,"Meessen, Rudolf",Black,0.0,2206,"Garcia Martin, Marta",2329
+41 Andorra Open,2025.07.25,7.21,"Sason, Noam",White,0.0,2189,"Fiedorek, Michal",2322
+41 Andorra Open,2025.07.25,7.21,"Fiedorek, Michal",Black,1.0,2322,"Sason, Noam",2189
+41 Andorra Open,2025.07.25,7.22,"Fava, Lorenzo",White,1.0,2316,"Jagreet, Misra",1988
+41 Andorra Open,2025.07.25,7.22,"Jagreet, Misra",Black,0.0,1988,"Fava, Lorenzo",2316
+41 Andorra Open,2025.07.25,7.23,"Ruperez, Miguel",White,0.0,2149,"Cappelletto, Joshuaede",2312
+41 Andorra Open,2025.07.25,7.23,"Cappelletto, Joshuaede",Black,1.0,2312,"Ruperez, Miguel",2149
+41 Andorra Open,2025.07.25,7.24,"Valle Luis, Leo",White,0.0,2301,"Ribera Veganzones, Josep Maria",2141
+41 Andorra Open,2025.07.25,7.24,"Ribera Veganzones, Josep Maria",Black,1.0,2141,"Valle Luis, Leo",2301
+41 Andorra Open,2025.07.25,7.25,"Christodoulaki, Antonia",White,0.5,2111,"Romero Calduch, Sergio",2289
+41 Andorra Open,2025.07.25,7.25,"Romero Calduch, Sergio",Black,0.5,2289,"Christodoulaki, Antonia",2111
+41 Andorra Open,2025.07.25,7.26,"Gowrishankar, Jayaraj",White,0.0,2092,"Michaelides, Konstantinos",2286
+41 Andorra Open,2025.07.25,7.26,"Michaelides, Konstantinos",Black,1.0,2286,"Gowrishankar, Jayaraj",2092
+41 Andorra Open,2025.07.26,8.1,"Andersen, Mads",White,1.0,2562,"Lopez Martinez, Josep Manuel",2462
+41 Andorra Open,2025.07.26,8.1,"Lopez Martinez, Josep Manuel",Black,0.0,2462,"Andersen, Mads",2562
+41 Andorra Open,2025.07.26,8.2,"Dvirnyy, Danyyil",White,0.5,2473,"Tari, Aryan",2636
+41 Andorra Open,2025.07.26,8.2,"Tari, Aryan",Black,0.5,2636,"Dvirnyy, Danyyil",2473
+41 Andorra Open,2025.07.26,8.3,"Fiorito, Joaquin",White,0.5,2419,"Shimanov, Aleksandr",2578
+41 Andorra Open,2025.07.26,8.3,"Shimanov, Aleksandr",Black,0.5,2578,"Fiorito, Joaquin",2419
+41 Andorra Open,2025.07.26,8.4,"Sumets, Andrey",White,0.5,2497,"Kogan, Arthur",2475
+41 Andorra Open,2025.07.26,8.4,"Kogan, Arthur",Black,0.5,2475,"Sumets, Andrey",2497
+41 Andorra Open,2025.07.26,8.5,"Henriquez Villagra, Cristobal",White,0.5,2599,"Garcia Ramos, Daniel",2438
+41 Andorra Open,2025.07.26,8.5,"Garcia Ramos, Daniel",Black,0.5,2438,"Henriquez Villagra, Cristobal",2599
+41 Andorra Open,2025.07.26,8.6,"Fiedorek, Michal",White,0.5,2322,"Domingo Nunez, Ruben",2435
+41 Andorra Open,2025.07.26,8.6,"Domingo Nunez, Ruben",Black,0.5,2435,"Fiedorek, Michal",2322
+41 Andorra Open,2025.07.26,8.7,"Fiorito, Francisco",White,1.0,2433,"Fava, Lorenzo",2316
+41 Andorra Open,2025.07.26,8.7,"Fava, Lorenzo",Black,0.0,2316,"Fiorito, Francisco",2433
+41 Andorra Open,2025.07.26,8.8,"Ostensen, Nicolai Maxime",White,0.5,2326,"Czopor, Maciej",2423
+41 Andorra Open,2025.07.26,8.8,"Czopor, Maciej",Black,0.5,2423,"Ostensen, Nicolai Maxime",2326
+41 Andorra Open,2025.07.26,8.9,"Cappelletto, Joshuaede",White,1.0,2312,"Smeets, Kobe",2341
+41 Andorra Open,2025.07.26,8.9,"Smeets, Kobe",Black,0.0,2341,"Cappelletto, Joshuaede",2312
+41 Andorra Open,2025.07.26,8.10,"Villa Tornero, Alex",White,0.0,2282,"Garcia Martin, Marta",2329
+41 Andorra Open,2025.07.26,8.10,"Garcia Martin, Marta",Black,1.0,2329,"Villa Tornero, Alex",2282
+41 Andorra Open,2025.07.26,8.11,"Ayats Llobera, Gerard",White,0.5,2447,"Yao, Lan",2261
+41 Andorra Open,2025.07.26,8.11,"Yao, Lan",Black,0.5,2261,"Ayats Llobera, Gerard",2447
+41 Andorra Open,2025.07.26,8.12,"Nielsen, Andre",White,0.0,2287,"Cuartas, Jaime Alexander",2521
+41 Andorra Open,2025.07.26,8.12,"Cuartas, Jaime Alexander",Black,1.0,2521,"Nielsen, Andre",2287
+41 Andorra Open,2025.07.26,8.13,"Michaelides, Konstantinos",White,0.0,2286,"Gkoumas, Georgios",2441
+41 Andorra Open,2025.07.26,8.13,"Gkoumas, Georgios",Black,1.0,2441,"Michaelides, Konstantinos",2286
+41 Andorra Open,2025.07.26,8.14,"Rodriguez Redondo, Adhara",White,1.0,2183,"Vestby-Ellingsen, Mads",2395
+41 Andorra Open,2025.07.26,8.14,"Vestby-Ellingsen, Mads",Black,0.0,2395,"Rodriguez Redondo, Adhara",2183
+41 Andorra Open,2025.07.26,8.15,"Suarez Uriel, Adrian",White,1.0,2394,"Serra Pages, Jordi",2177
+41 Andorra Open,2025.07.26,8.15,"Serra Pages, Jordi",Black,0.0,2177,"Suarez Uriel, Adrian",2394
+41 Andorra Open,2025.07.26,8.16,"Jimenez Fernandez, Rebeca",White,0.0,2154,"Lohia, Sohum",2382
+41 Andorra Open,2025.07.26,8.16,"Lohia, Sohum",Black,1.0,2382,"Jimenez Fernandez, Rebeca",2154
+41 Andorra Open,2025.07.26,8.17,"Hernandez, Cristian Andres",White,1.0,2373,"Moral Garcia, Serafin",2258
+41 Andorra Open,2025.07.26,8.17,"Moral Garcia, Serafin",Black,0.0,2258,"Hernandez, Cristian Andres",2373
+41 Andorra Open,2025.07.26,8.18,"Karp, Ilya",White,1.0,2370,"Roca Planas, Edgar",2246
+41 Andorra Open,2025.07.26,8.18,"Roca Planas, Edgar",Black,0.0,2246,"Karp, Ilya",2370
+41 Andorra Open,2025.07.26,8.19,"De Lomas Busquets, Alba",White,0.0,1997,"Bruaset, Eivind",2223
+41 Andorra Open,2025.07.26,8.19,"Bruaset, Eivind",Black,1.0,2223,"De Lomas Busquets, Alba",1997
+41 Andorra Open,2025.07.26,8.20,"Fiorito, Fabian",White,1.0,2274,"Luque Saiz, Andres",2352
+41 Andorra Open,2025.07.26,8.20,"Luque Saiz, Andres",Black,0.0,2352,"Fiorito, Fabian",2274
+41 Andorra Open,2025.07.26,8.21,"Tryggestad, Andreas Garberg",White,1.0,2332,"Gomez Anadon, Daniel",2171
+41 Andorra Open,2025.07.26,8.21,"Gomez Anadon, Daniel",Black,0.0,2171,"Tryggestad, Andreas Garberg",2332
+41 Andorra Open,2025.07.26,8.22,"Ribera Veganzones, Josep Maria",White,0.5,2141,"Lund, Gunnar",2322
+41 Andorra Open,2025.07.26,8.22,"Lund, Gunnar",Black,0.5,2322,"Ribera Veganzones, Josep Maria",2141
+41 Andorra Open,2025.07.26,8.23,"Schoorl, Rob",White,0.0,2300,"Alvarez Albiol, Victor",2171
+41 Andorra Open,2025.07.26,8.23,"Alvarez Albiol, Victor",Black,1.0,2171,"Schoorl, Rob",2300
+41 Andorra Open,2025.07.26,8.24,"Mallar, Arya G",White,0.5,2000,"Oudeh Mishmesh, Omar",2290
+41 Andorra Open,2025.07.26,8.24,"Oudeh Mishmesh, Omar",Black,0.5,2290,"Mallar, Arya G",2000
+41 Andorra Open,2025.07.26,8.25,"Rempe, Jonas",White,0.5,2095,"Volkov, Dmitriy",2211
+41 Andorra Open,2025.07.26,8.25,"Volkov, Dmitriy",Black,0.5,2211,"Rempe, Jonas",2095
+41 Andorra Open,2025.07.26,8.26,"Romero Calduch, Sergio",White,1.0,2289,"Luke Brezmes, Cristofer",2093
+41 Andorra Open,2025.07.26,8.26,"Luke Brezmes, Cristofer",Black,0.0,2093,"Romero Calduch, Sergio",2289
+41 Andorra Open,2025.07.27,9.1,"Tari, Aryan",White,1.0,2636,"Andersen, Mads",2562
+41 Andorra Open,2025.07.27,9.1,"Andersen, Mads",Black,0.0,2562,"Tari, Aryan",2636
+41 Andorra Open,2025.07.27,9.2,"Shimanov, Aleksandr",White,0.5,2578,"Dvirnyy, Danyyil",2473
+41 Andorra Open,2025.07.27,9.2,"Dvirnyy, Danyyil",Black,0.5,2473,"Shimanov, Aleksandr",2578
+41 Andorra Open,2025.07.27,9.3,"Lopez Martinez, Josep Manuel",White,0.5,2462,"Sumets, Andrey",2497
+41 Andorra Open,2025.07.27,9.3,"Sumets, Andrey",Black,0.5,2497,"Lopez Martinez, Josep Manuel",2462
+41 Andorra Open,2025.07.27,9.4,"Kogan, Arthur",White,0.5,2475,"Fiorito, Francisco",2433
+41 Andorra Open,2025.07.27,9.4,"Fiorito, Francisco",Black,0.5,2433,"Kogan, Arthur",2475
+41 Andorra Open,2025.07.27,9.5,"Garcia Ramos, Daniel",White,0.5,2438,"Fiorito, Joaquin",2419
+41 Andorra Open,2025.07.27,9.5,"Fiorito, Joaquin",Black,0.5,2419,"Garcia Ramos, Daniel",2438
+41 Andorra Open,2025.07.27,9.6,"Garcia Martin, Marta",White,0.0,2329,"Suarez Uriel, Adrian",2394
+41 Andorra Open,2025.07.27,9.6,"Suarez Uriel, Adrian",Black,1.0,2394,"Garcia Martin, Marta",2329
+41 Andorra Open,2025.07.27,9.7,"Tryggestad, Andreas Garberg",White,0.0,2332,"Henriquez Villagra, Cristobal",2599
+41 Andorra Open,2025.07.27,9.7,"Henriquez Villagra, Cristobal",Black,1.0,2599,"Tryggestad, Andreas Garberg",2332
+41 Andorra Open,2025.07.27,9.8,"Cuartas, Jaime Alexander",White,0.5,2521,"Ostensen, Nicolai Maxime",2326
+41 Andorra Open,2025.07.27,9.8,"Ostensen, Nicolai Maxime",Black,0.5,2326,"Cuartas, Jaime Alexander",2521
+41 Andorra Open,2025.07.27,9.9,"Domingo Nunez, Ruben",White,0.5,2435,"Fiorito, Fabian",2274
+41 Andorra Open,2025.07.27,9.9,"Fiorito, Fabian",Black,0.5,2274,"Domingo Nunez, Ruben",2435
+41 Andorra Open,2025.07.27,9.10,"Czopor, Maciej",White,1.0,2423,"Fiedorek, Michal",2322
+41 Andorra Open,2025.07.27,9.10,"Fiedorek, Michal",Black,0.0,2322,"Czopor, Maciej",2423
+41 Andorra Open,2025.07.27,9.11,"Lohia, Sohum",White,1.0,2382,"Rodriguez Redondo, Adhara",2183
+41 Andorra Open,2025.07.27,9.11,"Rodriguez Redondo, Adhara",Black,0.0,2183,"Lohia, Sohum",2382
+41 Andorra Open,2025.07.27,9.12,"Yao, Lan",White,1.0,2261,"Hernandez, Cristian Andres",2373
+41 Andorra Open,2025.07.27,9.12,"Hernandez, Cristian Andres",Black,0.0,2373,"Yao, Lan",2261
+41 Andorra Open,2025.07.27,9.13,"Alvarez Albiol, Victor",White,0.0,2171,"Karp, Ilya",2370
+41 Andorra Open,2025.07.27,9.13,"Karp, Ilya",Black,1.0,2370,"Alvarez Albiol, Victor",2171
+41 Andorra Open,2025.07.27,9.14,"Ayats Llobera, Gerard",White,1.0,2447,"Meessen, Rudolf",2206
+41 Andorra Open,2025.07.27,9.14,"Meessen, Rudolf",Black,0.0,2206,"Ayats Llobera, Gerard",2447
+41 Andorra Open,2025.07.27,9.15,"Smeets, Kobe",White,1.0,2341,"Midoux, Sebastien",2190
+41 Andorra Open,2025.07.27,9.15,"Midoux, Sebastien",Black,0.0,2190,"Smeets, Kobe",2341
+41 Andorra Open,2025.07.27,9.16,"Lund, Gunnar",White,1.0,2322,"Serrahima Susany, Ramon",2114
+41 Andorra Open,2025.07.27,9.16,"Serrahima Susany, Ramon",Black,0.0,2114,"Lund, Gunnar",2322
+41 Andorra Open,2025.07.27,9.17,"Fava, Lorenzo",White,0.5,2316,"Arya, G Mallar",2000
+41 Andorra Open,2025.07.27,9.17,"Arya, G Mallar",Black,0.5,2000,"Fava, Lorenzo",2316
+41 Andorra Open,2025.07.27,9.18,"Oudeh Mishmesh, Omar",White,1.0,2290,"Ribera Veganzones, Josep Maria",2141
+41 Andorra Open,2025.07.27,9.18,"Ribera Veganzones, Josep Maria",Black,0.0,2141,"Oudeh Mishmesh, Omar",2290
+41 Andorra Open,2025.07.27,9.19,"Posocco De Grandi, Marc",White,0.0,1768,"De Lomas Busquets, Alba",1997
+41 Andorra Open,2025.07.27,9.19,"De Lomas Busquets, Alba",Black,1.0,1997,"Posocco De Grandi, Marc",1768
+41 Andorra Open,2025.07.27,9.20,"Suarez, Sebastian",White,1.0,2201,"Romero Calduch, Sergio",2289
+41 Andorra Open,2025.07.27,9.20,"Romero Calduch, Sergio",Black,0.0,2289,"Suarez, Sebastian",2201
+41 Andorra Open,2025.07.27,9.21,"Christodoulaki, Antonia",White,1.0,2111,"Villa Tornero, Alex",2282
+41 Andorra Open,2025.07.27,9.21,"Villa Tornero, Alex",Black,0.0,2282,"Christodoulaki, Antonia",2111
+41 Andorra Open,2025.07.27,9.22,"Vestby-Ellingsen, Mads",White,1.0,2395,"Skaar, Ben Samuel Groth",2174
+41 Andorra Open,2025.07.27,9.22,"Skaar, Ben Samuel Groth",Black,0.0,2174,"Vestby-Ellingsen, Mads",2395
+41 Andorra Open,2025.07.27,9.23,"Gomez Anadon, Daniel",White,0.5,2171,"Luque Saiz, Andres",2352
+41 Andorra Open,2025.07.27,9.23,"Luque Saiz, Andres",Black,0.5,2352,"Gomez Anadon, Daniel",2171
+41 Andorra Open,2025.07.27,9.24,"Valle Luis, Leo",White,1.0,2301,"Jimenez Fernandez, Rebeca",2154
+41 Andorra Open,2025.07.27,9.24,"Jimenez Fernandez, Rebeca",Black,0.0,2154,"Valle Luis, Leo",2301
+41 Andorra Open,2025.07.27,9.25,"Guix Torres, David",White,0.5,2038,"Schoorl, Rob",2300
+41 Andorra Open,2025.07.27,9.25,"Schoorl, Rob",Black,0.5,2300,"Guix Torres, David",2038
+41 Andorra Open,2025.07.27,9.26,"Ruperez, Miguel",White,0.0,2149,"Nielsen, Andre",2287
+41 Andorra Open,2025.07.27,9.26,"Nielsen, Andre",Black,1.0,2287,"Ruperez, Miguel",2149
