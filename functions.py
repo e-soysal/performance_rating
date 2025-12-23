@@ -24,16 +24,15 @@ def parse_pgn(pgn_text: str) -> dict:
     return game_data
 
 
-def parse_pgn_file(filename: str) -> pd.DataFrame:
+def parse_pgn_file(file_text: str) -> pd.DataFrame:
     """
     Parse a full PGN file with one or more games into a DataFrame.
     Each row = one game, index = GameId if available.
     """
-    with open(filename, "r", encoding="utf-8") as f:
-        content = f.read().strip()
+    text = file_text.strip()
 
     # Split games by blank line before a header `[`
-    games_raw = re.split(r'\n\s*\n(?=\[)', content)
+    games_raw = re.split(r'\n\s*\n(?=\[)', text)
 
     games = [parse_pgn(game_text) for game_text in games_raw if game_text.strip()]
 
