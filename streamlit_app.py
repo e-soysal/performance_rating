@@ -4,7 +4,7 @@ from io import StringIO
 
 st.set_page_config(page_title="PGN Player Viewer")
 
-st.title("♟️ PGN Tournament Viewer")
+st.title("PGN Performance Rating Calculator")
 # Upload PGN file
 uploaded_file = st.file_uploader("Upload a PGN file", type=["pgn"])
 if uploaded_file is not None:
