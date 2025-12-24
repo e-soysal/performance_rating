@@ -90,9 +90,8 @@ def games_to_player_rows(df: pd.DataFrame) -> pd.DataFrame:
 
     return pd.DataFrame(rows)
 
-def build_player_opponent_elo_table(csv_file: str) -> pd.DataFrame:
-    df = pd.read_csv(csv_file)
-
+def build_player_opponent_elo_table(df: pd.DataFrame) -> pd.DataFrame:
+    
     # Extract first part of the round (e.g. 10.3 → 10)
     df["RoundInt"] = df["Round"].astype(str).str.split(".").str[0]
     df["RoundCol"] = "Round " + df["RoundInt"]
