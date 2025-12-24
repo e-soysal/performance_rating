@@ -18,7 +18,7 @@ if uploaded_file is not None:
     
     df2 = functions.games_to_player_rows(df1)
     
-    df3 = functions.build_player_opponent_elo_table_from_df(df2)
+    df3 = functions.build_player_opponent_elo_table(df2)
     
     st.write("PGN file parsed successfully.")
 
