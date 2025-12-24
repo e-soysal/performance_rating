@@ -21,7 +21,10 @@ if uploaded_file is not None:
     df3 = functions.build_player_opponent_elo_table(df2)
     
     st.write("PGN file parsed successfully.")
-
+    
+    if "view" not in st.session_state:
+        st.session_state.view = None   # ← nothing selected yet
+    
     col1, col2 = st.columns(2)
     
     with col1:
