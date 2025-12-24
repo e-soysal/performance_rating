@@ -28,10 +28,11 @@ if uploaded_file is not None:
         if st.button("Tournament view"):
             st.session_state.view = "tournament"
 
-    st.divider()
     with col2:
-    if st.button("Player view"):
-        st.session_state.view = "player"
+        if st.button("Player view"):
+            st.session_state.view = "player"
+
+    st.divider()
 
     if st.session_state.view == "tournament":
         st.header("Tournament view")
