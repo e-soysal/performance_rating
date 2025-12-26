@@ -1,7 +1,7 @@
 import streamlit as st
 import functions
 from io import StringIO
-import numpy as np
+import numpy
 
 st.set_page_config(page_title="PGN Player Viewer")
 
@@ -65,9 +65,9 @@ if uploaded_file is not None:
 
         #Calculate the performance rating for the test player
         test_player.calculate_performance_rating(boundary_value= 0.01)
-        st.write("Calculated performance - average method:", np.round(test_player.performance_average))
-        st.write("Calculated performance - minimisation method:", np.round(test_player.performance))
-    
+        st.write("Calculated performance - average method:", numpy.round(test_player.performance_average))
+        st.write("Calculated performance - minimisation method:", numpy.round(test_player.performance))
+
     else:
         # Optional: placeholder message, or leave empty
         st.info("Please choose a view to continue")
