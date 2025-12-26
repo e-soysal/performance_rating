@@ -1,6 +1,7 @@
 import streamlit as st
 import functions
 from io import StringIO
+import numpy as np
 
 st.set_page_config(page_title="PGN Player Viewer")
 
