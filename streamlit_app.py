@@ -63,9 +63,9 @@ if uploaded_file is not None:
         
         #Calculate the performance rating for the test player
         test_player.calculate_performance_rating(boundary_value= 0.01)
-        st.write("Elo rating:", test_player.player_rating, " (expected score:", numpy.round(test_player.player_games["Expected_Score_Current_Elo"].sum(),2)")")
-        st.write("Performance rating - average method:", numpy.round(test_player.performance_average), " (expected score:", numpy.round(test_player.player_games["Expected_Score_Performance_Average"].sum(),2)")")
-        st.write("Performance rating - minimisation method:", numpy.round(test_player.performance), " (expected score:", numpy.round(test_player.player_games["Expected_Score_Performance_Minimisation"].sum(),2)")")
+        st.write("Elo rating:", test_player.player_rating, " (expected score:", numpy.round(test_player.player_games["Expected_Score_Current_Elo"].sum(),2), ")")
+        st.write("Performance rating - average method:", numpy.round(test_player.performance_average), " (expected score:", numpy.round(test_player.player_games["Expected_Score_Performance_Average"].sum(),2), ")")
+        st.write("Performance rating - minimisation method:", numpy.round(test_player.performance), " (expected score:", numpy.round(test_player.player_games["Expected_Score_Performance_Minimisation"].sum(),2), ")")
 
         st.write(test_player.player_games)
 
