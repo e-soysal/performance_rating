@@ -44,8 +44,7 @@ if uploaded_file is not None:
 
     elif st.session_state.view == "player":
         st.header("Player view")
-        st.write("Show player-level data here")
-
+        
         # Test player detail function
         players = df2["Player"].unique()
 
@@ -61,12 +60,14 @@ if uploaded_file is not None:
         test_player = functions.player_detail(name = selected_player, player_games = df4) #create player detail
         st.write("Player details retrieved for player:", test_player.player_name)
         st.write("Elo rating:", test_player.player_rating, "Score:", test_player.score, "Rounds played:", test_player.player_rounds)
-        st.write(test_player.player_games)
-
+        
         #Calculate the performance rating for the test player
         test_player.calculate_performance_rating(boundary_value= 0.01)
         st.write("Calculated performance - average method:", numpy.round(test_player.performance_average))
         st.write("Calculated performance - minimisation method:", numpy.round(test_player.performance))
+        
+        test_player.calculate_expected_score()
+        st.write(test_player.player_games)
 
     else:
         # Optional: placeholder message, or leave empty

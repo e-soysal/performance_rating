@@ -150,11 +150,11 @@ class Player:
     score: Optional[float]= None    
     score_percent: Optional[float]= None
     
-    def calculate_performance_rating(self, boundary_value: float) -> float:
+    def calculate_performance_rating(self, boundary_value: float, reference_rating: str) -> float:
         """
         Calculate performance rating based on player's games.
         """
-        self.calculate_expected_score()
+        self.calculate_expected_score(type=reference_rating)
 
         if self.player_rounds is None or 0:
             print("Player has no rounds played to calculate performance rating.")
@@ -191,7 +191,7 @@ class Player:
         
         return self.performance, self.performance_average
     
-    def calculate_expected_score(self):
+    def calculate_expected_score(self, reference_rating: str = "elo") -> Optional[float]:
         """
         Calculate expected score based on player's rating and opponent ratings.
         """
@@ -201,9 +201,10 @@ class Player:
         
         expected_scores = logistic(self.player_rating, self.player_games["OpponentElo"])
         print(expected_scores)
-        self.player_games.loc[:, "ExpectedScore"] = expected_scores
+        col_name = "Expected_Score_" + reference_rating
+        self.player_games.loc[:, col_name] = expected_scores
 
-        return self.player_games["ExpectedScore"].sum()
+        return self.player_games[col_name].sum()
 
 
 def player_detail(name: str, player_games: pd.DataFrame):
