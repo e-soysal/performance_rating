@@ -191,7 +191,7 @@ class Player:
         
         return self.performance, self.performance_average
     
-    def calculate_expected_score(self, reference_rating: str = "elo") -> Optional[float]:
+    def calculate_expected_score(self, reference_rating: str) -> Optional[float]:
         """
         Calculate expected score based on player's rating and opponent ratings.
         """
