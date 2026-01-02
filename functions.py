@@ -154,7 +154,7 @@ class Player:
         """
         Calculate performance rating based on player's games.
         """
-        self.calculate_expected_score(type=reference_rating)
+        self.calculate_expected_score(reference_rating=reference_rating)
 
         if self.player_rounds is None or 0:
             print("Player has no rounds played to calculate performance rating.")
