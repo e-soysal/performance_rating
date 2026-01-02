@@ -66,7 +66,6 @@ if uploaded_file is not None:
         st.write("Calculated performance - average method:", numpy.round(test_player.performance_average))
         st.write("Calculated performance - minimisation method:", numpy.round(test_player.performance))
         
-        test_player.calculate_expected_score()
         st.write(test_player.player_games)
 
     else:
