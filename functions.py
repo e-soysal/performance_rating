@@ -150,15 +150,16 @@ class Player:
     score: Optional[float]= None    
     score_percent: Optional[float]= None
     
-    def calculate_performance_rating(self, boundary_value: float, reference_rating: str) -> float:
+    def calculate_performance_rating(self, boundary_value: float) -> float:
         """
         Calculate performance rating based on player's games.
         """
-        self.calculate_expected_score(reference_rating=reference_rating)
 
         if self.player_rounds is None or 0:
             print("Player has no rounds played to calculate performance rating.")
             return None
+
+        self.calculate_expected_score(reference_rating= "Current_Elo")
         
         if self.score == 0: 
             print("Player lost all rounds; performance rating is undefined. Using boundary value.")
@@ -189,18 +190,31 @@ class Player:
         else:
             print("No opponent ratings available to calculate performance average.")
         
+        self.calculate_expected_score(reference_rating = "Performance_Average")
+        self.calculate_expected_score(reference_rating = "Performance_Minimisation")
+        
         return self.performance, self.performance_average
     
     def calculate_expected_score(self, reference_rating: str) -> Optional[float]:
         """
         Calculate expected score based on player's rating and opponent ratings.
+        Reference rating can be 'Current_Elo', 'Performance_Average', or 'Performance_Minimisation'.
+
         """
         if self.player_games.empty:
             print("No games available to calculate expected score.")
             return None
         
-        expected_scores = logistic(self.player_rating, self.player_games["OpponentElo"])
-        print(expected_scores)
+        if reference_rating == "Current_Elo":
+            rating = self.player_rating
+        
+        elif reference_rating == "Performance_Average":
+            rating = self.performance_average
+
+        elif reference_rating == "Performance_Minimisation":
+            rating = self.performance
+
+        expected_scores = logistic(rating, self.player_games["OpponentElo"])
         col_name = "Expected_Score_" + reference_rating
         self.player_games.loc[:, col_name] = expected_scores
 

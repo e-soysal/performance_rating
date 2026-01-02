@@ -62,7 +62,7 @@ if uploaded_file is not None:
         st.write("Elo rating:", test_player.player_rating, "Score:", test_player.score, "Rounds played:", test_player.player_rounds)
         
         #Calculate the performance rating for the test player
-        test_player.calculate_performance_rating(boundary_value= 0.01, reference_rating="elo")
+        test_player.calculate_performance_rating(boundary_value= 0.01)
         st.write("Calculated performance - average method:", numpy.round(test_player.performance_average))
         st.write("Calculated performance - minimisation method:", numpy.round(test_player.performance))
         
