@@ -23,16 +23,11 @@ if uploaded_file is not None:
     
     st.write("PGN file parsed successfully.")
     
+    rule = st.checkbox("Use 400-rule", value=True)
+
     if "view" not in st.session_state:
         st.session_state.view = None   # ← nothing selected yet
     
-    rule = st.checkbox("Use 400-rule:", value=True)
-
-    if rule:
-        st.write("400-rule applied")
-    else:
-        st.write("400-rule applied")
-        
     col1, col2 = st.columns(2)
     
     with col1:
