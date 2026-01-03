@@ -192,7 +192,7 @@ class Player:
 
             #calculate performance rating using minimisation
             initial_guess = opponent_average
-            performanceRating = minimize(target_function, self.player_rating,
+            performanceRating = minimize(target_function, initial_guess,
                                           args= (resultCorrected, 
                                                  opponent_ratings,)).x[0]
             self.performance = np.round(performanceRating) 
