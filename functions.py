@@ -188,7 +188,7 @@ class Player:
         if not opponent_ratings.empty:
             #calculate performance rating using average opponent rating
             opponent_average = opponent_ratings.mean()
-            self.performance_average = opponent_average + 400 * np.log10(1/score_percent - 1)
+            self.performance_average = opponent_average - 400 * np.log10(1/score_percent - 1)
 
             #calculate performance rating using minimisation
             initial_guess = opponent_average
