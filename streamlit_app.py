@@ -38,7 +38,7 @@ if uploaded_file is not None:
         if st.button("Player view"):
             st.session_state.view = "player"
 
-    st.divider()
+#    st.divider()
 
     if st.session_state.view == "tournament":
         st.header("Tournament view")
@@ -61,7 +61,6 @@ if uploaded_file is not None:
         test_player = functions.player_detail(name = selected_player, player_games = df4) #create player detail
         
         # Display something related to the player
-        st.write("Player:", test_player.player_name)
         st.write("Score:", test_player.score, "Rounds played:", test_player.player_rounds)
         
         #Calculate the performance rating for the test player
