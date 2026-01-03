@@ -26,6 +26,13 @@ if uploaded_file is not None:
     if "view" not in st.session_state:
         st.session_state.view = None   # ← nothing selected yet
     
+    rule = st.checkbox("Use 400-rule:", value=True)
+
+    if rule:
+        st.write("400-rule applied")
+    else:
+        st.write("400-rule applied")
+        
     col1, col2 = st.columns(2)
     
     with col1:
@@ -61,13 +68,6 @@ if uploaded_file is not None:
         # Display something related to the player
         st.write("Player:", test_player.player_name)
         st.write("Score:", test_player.score, "Rounds played:", test_player.player_rounds)
-        
-        rule = st.checkbox("Use 400-rule:", value=True)
-
-        if rule:
-            st.write("400-rule applied")
-        else:
-            st.write("400-rule applied")
         
         #Calculate the performance rating for the test player
         test_player.calculate_performance_rating(boundary_value= 0.01, rule = rule)
