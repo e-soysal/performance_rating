@@ -243,7 +243,8 @@ def player_detail(name: str, player_games: pd.DataFrame):
         player = Player(player_name=name, player_rating = rating)
         
         #Retrieve info about games, score, and number of rounds played
-        player_games_small = player_games[["Round", "Color", "Points", "Opponent", "OpponentElo"]].copy()
+        player_games_small = player_games[["Round", "Opponent", "OpponentElo", "Points"]].copy()
+        player_games_small.set_index("Round", inplace=True)
         player.player_games = player_games_small
         player.score = player.player_games["Points"].sum()
         player.player_rounds = len(player.player_games)
