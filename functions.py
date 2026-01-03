@@ -194,7 +194,7 @@ class Player:
             initial_guess = opponent_average
             performanceRating = minimize(target_function, self.player_rating,
                                           args= (resultCorrected, 
-                                                 self.player_games["OpponentElo"],)).x[0]
+                                                 opponent_ratings,)).x[0]
             self.performance = np.round(performanceRating) 
 
         else:
