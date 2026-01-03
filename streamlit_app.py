@@ -54,15 +54,23 @@ if uploaded_file is not None:
             sorted(players)
         )
 
-        # Display something related to the player
         df4 = df2.copy() #Get a list of all the games
         df4 = df4[df4["Player"] == selected_player] #Filter for the test player
         test_player = functions.player_detail(name = selected_player, player_games = df4) #create player detail
-        st.write("Player details retrieved for player:", test_player.player_name)
+        
+        # Display something related to the player
+        st.write("Player:", test_player.player_name)
         st.write("Score:", test_player.score, "Rounds played:", test_player.player_rounds)
         
+        rule = st.checkbox("Use 400-rule:", value=True)
+
+        if rule:
+            st.write("400-rule applied")
+        else:
+            st.write("400-rule applied")
+        
         #Calculate the performance rating for the test player
-        test_player.calculate_performance_rating(boundary_value= 0.01)
+        test_player.calculate_performance_rating(boundary_value= 0.01, rule = rule)
         st.write("Elo rating:", test_player.player_rating, " (expected score:", numpy.round(test_player.player_games["Expected_Score_Current_Elo"].sum(),2), ")")
         st.write("Performance rating - average method:", numpy.round(test_player.performance_average), " (expected score:", numpy.round(test_player.player_games["Expected_Score_Performance_Average"].sum(),2), ")")
         st.write("Performance rating - minimisation method:", numpy.round(test_player.performance), " (expected score:", numpy.round(test_player.player_games["Expected_Score_Performance_Minimisation"].sum(),2), ")")

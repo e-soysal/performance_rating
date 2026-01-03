@@ -149,8 +149,8 @@ class Player:
     player_rounds: int = None
     score: Optional[float]= None    
     score_percent: Optional[float]= None
-    
-    def calculate_performance_rating(self, boundary_value: float) -> float:
+
+    def calculate_performance_rating(self, boundary_value: float, rule: bool) -> float:
         """
         Calculate performance rating based on player's games.
         """
@@ -174,6 +174,16 @@ class Player:
         score_percent = resultCorrected / self.player_rounds
         
         opponent_ratings = self.player_games["OpponentElo"].dropna()
+
+        if rule:
+            #apply 400-rule
+            adjusted_opponent_ratings = opponent_ratings.copy()
+            for i, opp_rating in enumerate(opponent_ratings):
+                if self.player_rating - opp_rating >= 400:
+                    adjusted_opponent_ratings.iat[i] = self.player_rating - 400
+                elif opp_rating - self.player_rating >= 400:
+                    adjusted_opponent_ratings.iat[i] = self.player_rating + 400
+            opponent_ratings = adjusted_opponent_ratings
 
         if not opponent_ratings.empty:
             #calculate performance rating using average opponent rating
